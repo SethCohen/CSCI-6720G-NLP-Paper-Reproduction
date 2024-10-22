@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+python-dotenv
+openai
+spacy
+sacrebleu
